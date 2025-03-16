@@ -14,23 +14,41 @@
             height: 100vh;
             margin: 0;
         }
-        .download-container {
-            text-align: center;
+        .container {
             background: white;
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            width: 300px;
+        }
+        .app-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .app-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background: #ffffff;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
         .download-button {
-            display: inline-flex;
+            display: flex;
             align-items: center;
+            justify-content: center;
             text-decoration: none;
             background-color: #28a745;
             color: white;
-            padding: 12px 20px;
-            font-size: 18px;
+            padding: 10px 15px;
+            font-size: 16px;
             border-radius: 5px;
             transition: background 0.3s;
+            width: 100%;
+            text-align: center;
         }
         .download-button:hover {
             background-color: #218838;
@@ -41,29 +59,33 @@
     </style>
 </head>
 <body>
-    <div class="download-container">
-        <p>Còi Tivi -></p>
-        <a href="https://github.com/rupanh123-phap/PHAPFERRARI.github.io/releases/download/V1.0.0/Co.TiVi_1.0.4.apk" class="download-button" download>
-            <i>⬇️</i> Tải Ngay
-        </a>
-    </div>
-    <div class="download-container">
-        <p>Kho App khác -></p>
-        <a href="https://github.com/rupanh123-phap/PHAPFERRARI.github.io/releases/tag/V1.0.0" class="download-button" download>
-            <i>⬇️</i> Tải Ngay
-        </a>
-    </div>
-        <div class="download-container">
-        <p>Còi Tivi -></p>
-        <a href="https://github.com/rupanh123-phap/PHAPFERRARI.github.io/releases/download/V1.0.0/Co.TiVi_1.0.4.apk" class="download-button" download>
-            <i>⬇️</i> Tải Ngay
-        </a>
-    </div>
-    <div class="download-container">
-        <p>Kho App khác -></p>
-        <a href="https://github.com/rupanh123-phap/PHAPFERRARI.github.io/releases/tag/V1.0.0" class="download-button" download>
-            <i>⬇️</i> Tải Ngay
-        </a>
+    <div class="container">
+        <ul class="app-list">
+            <li class="app-item">
+                <p><strong>Còi Tivi</strong></p>
+                <a href="https://github.com/rupanh123-phap/PHAPFERRARI.github.io/releases/download/V1.0.0/Co.TiVi_1.0.4.apk" class="download-button" download>
+                    <i>⬇️</i> Tải Ngay
+                </a>
+            </li>
+            <li class="app-item">
+                <p><strong>Kho App khác</strong></p>
+                <a href="https://github.com/rupanh123-phap/PHAPFERRARI.github.io/releases/tag/V1.0.0" class="download-button" download>
+                    <i>⬇️</i> Tải Ngay
+                </a>
+            </li>
+                        <li class="app-item">
+                <p><strong>ngu</strong></p>
+                <a href="https://github.com/rupanh123-phap/PHAPFERRARI.github.io/releases/download/V1.0.0/Co.TiVi_1.0.4.apk" class="download-button" download>
+                    <i>⬇️</i> Tải Ngay
+                </a>
+            </li>
+            <li class="app-item">
+                <p><strong>vl</strong></p>
+                <a href="https://github.com/rupanh123-phap/PHAPFERRARI.github.io/releases/tag/V1.0.0" class="download-button" download>
+                    <i>⬇️</i> Tải Ngay
+                </a>
+            </li>
+        </ul>
     </div>
 </body>
 </html>
