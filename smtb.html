@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pháp Ferrari</title>
+    <style>
+        /* Cài đặt chung */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            max-width: 400px;
+            width: 100%;
+            text-align: center;
+        }
+        .app-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .app-item {
+            background: #fff;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s;
+        }
+        .app-item:hover {
+            transform: scale(1.05);
+        }
+        .download-button {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            background-color: #28a745;
+            color: white;
+            padding: 12px;
+            font-size: 18px;
+            border-radius: 6px;
+            transition: background 0.3s;
+            width: 100%;
+            text-align: center;
+        }
+        .download-button:hover {
+            background-color: #218838;
+        }
+        .download-button i {
+            margin-right: 8px;
+        }
+
+        /* Đáp ứng trên màn hình lớn (TV, Laptop) */
+        @media (min-width: 768px) {
+            .container {
+                max-width: 600px;
+            }
+            .download-button {
+                font-size: 20px;
+                padding: 15px;
+            }
+        }
+
+        /* Đáp ứng trên màn hình rất lớn */
+        @media (min-width: 1200px) {
+            .container {
+                max-width: 800px;
+            }
+            .download-button {
+                font-size: 22px;
+                padding: 18px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Youtube Revanced</h2>
+        <ul class="app-list">
+            <li class="app-item">
+                <p><strong>Còi Tivi</strong></p>
+                <a href="https://github.com/rupanh123-phap/PHAPFERRARI.github.io/releases/download/V1.0.0/Co.TiVi_1.0.4.apk" class="download-button" download>
+                    <i>⬇️</i> Tải Ngay
+                </a>
+            </li>
+            <li class="app-item">
+                <p><strong>Kho App khác</strong></p>
+                <a href="https://github.com/rupanh123-phap/PHAPFERRARI.github.io/releases/tag/V1.0.0" class="download-button" download>
+                    <i>⬇️</i> Tải Ngay
+                </a>
+            </li>
+                        <li class="app-item">
+                <p><strong>Còi Tivi</strong></p>
+                <a href="https://github.com/rupanh123-phap/PHAPFERRARI.github.io/releases/download/V1.0.0/Co.TiVi_1.0.4.apk" class="download-button" download>
+                    <i>⬇️</i> Tải Ngay
+                </a>
+            </li>
+            <li class="app-item">
+                <p><strong>Kho App khác</strong></p>
+                <a href="https://github.com/rupanh123-phap/PHAPFERRARI.github.io/releases/tag/V1.0.0" class="download-button" download>
+                    <i>⬇️</i> Tải Ngay
+                </a>
+            </li>
+        </ul>
+    </div>
+</body>
+</html>
