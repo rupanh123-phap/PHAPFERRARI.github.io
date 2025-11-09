@@ -3,44 +3,12 @@
         "category": "MỚI NHẤT",
         "items": [
             {
-                "name": "Nguồn C",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/nguonc.png",
-                "installs": "99999999+",
-                "desc": "Website Phim",
-                "apk_url": "https:\/\/phim.nguonc.com\/danh-sach\/phim-dang-chieu"
-            },
-            {
-                "name": "CuonChill (Space Sport)",
-                "developer": "",
-                "icon": "https:\/\/www.cuonchill.com\/assets\/icon\/cuon-chill-marvel.svg",
-                "installs": "",
-                "desc": "Website Phim - Tivi - Truyện",
-                "apk_url": "https:\/\/www.cuonchill.com\/television"
-            },
-            {
-                "name": "Phimdinhcao",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/phimdinhcao.png",
-                "installs": "",
-                "desc": "Website phim TVB",
-                "apk_url": "https:\/\/www.phimlongtieng.club\/"
-            },
-            {
-                "name": "Tvhay",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/tvhay.jpg",
-                "installs": "",
-                "desc": "Website phim thuyết minh",
-                "apk_url": "https:\/\/bit.ly\/tvhay"
-            },
-            {
-                "name": "Báo Mới",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/tintuc.png",
-                "installs": "",
-                "desc": "Báo Mới Tổng Hợp",
-                "apk_url": "https:\/\/www.msn.com\/vi-vn?ocid=msedgntp&pc=U531&cvid=b289c0347c9a4bcfbc5a523ea0541c94&ei=6&fastFallbackOnModuleUnavailable=1"
+                "name": "Send files to TV",
+                "developer": "Yablio",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/k1kc79f3pU3FomQMlUakqEMVrGMu0Q7YEwEmF5F0Ibi599r7UJr5tvDVbWyJLEJZIKoU",
+                "installs": "10 Tr+",
+                "desc": "Dễ dàng chuyển tập tin sang Android Smart TV từ điện thoại di động hoặc máy tính của bạn.",
+                "apk_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.yablio.sendfilestotv"
             }
         ]
     },
@@ -56,28 +24,12 @@
                 "apk_url": "https:\/\/ahiep.name.vn\/phap-files\/?path=phuocphap%2FKODI%2FKodi22%2FKodi21-ondinh-+cloner"
             },
             {
-                "name": "Monplayer TV (Nguyên bản PlayStore)",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/HqXUsIGaqeYJDmTBFoS6_YLvODIuUjNn_HQTx_96TIFKldk2ob0x66HEXh_NnPAsXxc=w256",
-                "installs": "",
-                "desc": "vào website xem.pro để lấy link nguồn",
+                "name": "MonPlayer TV",
+                "developer": "Monoverse Co., Ltd",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/HqXUsIGaqeYJDmTBFoS6_YLvODIuUjNn_HQTx_96TIFKldk2ob0x66HEXh_NnPAsXxc",
+                "installs": "100 N+",
+                "desc": "Chơi tất cả nội dung bạn thích!.",
                 "apk_url": "https:\/\/monplayer.org\/tv"
-            },
-            {
-                "name": "Monplayer Mobile",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/HqXUsIGaqeYJDmTBFoS6_YLvODIuUjNn_HQTx_96TIFKldk2ob0x66HEXh_NnPAsXxc=w256",
-                "installs": "",
-                "desc": "Vào trang web Xem.Pro lấy link Lưu ý: Tìm Tải app trên CH-Play điện thoại",
-                "apk_url": "https:\/\/play.google.com\/store\/apps\/details?id=org.monplayer.mpapp"
-            },
-            {
-                "name": "CloudStream (MOD)",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/cs3.jpg",
-                "installs": "",
-                "desc": "Pass🔑: nghien android tv",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/clst.apk"
             },
             {
                 "name": "Stremio",
@@ -96,44 +48,12 @@
                 "apk_url": "https:\/\/github.com\/manhnv699\/vuagiaitri\/releases\/download\/tv-app-armeabi-v7a\/tv-app-armeabi-v7a.apk"
             },
             {
-                "name": "Vua Giải Trí (Mobile)",
-                "developer": "",
-                "icon": "https:\/\/png.pngtree.com\/png-clipart\/20200727\/original\/pngtree-logo-king-human-png-image_5155641.jpg",
-                "installs": "",
-                "desc": "Truyền Hình - Thể Thao - Phim 🤩",
-                "apk_url": "https:\/\/github.com\/manhnv699\/vuagiaitri\/releases\/download\/all\/vua-giai-tri-mobile-app-universal.apk"
-            },
-            {
-                "name": "Vua Giải Trí (iOS)",
-                "developer": "",
-                "icon": "https:\/\/png.pngtree.com\/png-clipart\/20200727\/original\/pngtree-logo-king-human-png-image_5155641.jpg",
-                "installs": "",
-                "desc": "Cách cài đặt: Tải ứng dụng TestFlight trên AppStore Tải và cài Vua Giải Trí từ TestFlight → Nhấn \"Accept\" → \"Install\"",
-                "apk_url": "https:\/\/testflight.apple.com\/join\/QScb4gHn"
-            },
-            {
                 "name": "Phim 4K (TV)",
                 "developer": "",
                 "icon": "https:\/\/img.freepik.com\/vector-gratis\/diseno-icona-insignia-resolucion-pantalla-4k-ultra-hd-dorada_1017-54543.jpg",
                 "installs": "",
                 "desc": "Phim 🤩",
                 "apk_url": "https:\/\/phim4k.xyz\/downloads\/androidtv"
-            },
-            {
-                "name": "Phim 4K (Mobile)",
-                "developer": "",
-                "icon": "https:\/\/img.freepik.com\/vector-gratis\/diseno-icona-insignia-resolucion-pantalla-4k-ultra-hd-dorada_1017-54543.jpg",
-                "installs": "",
-                "desc": "Phim 🤩",
-                "apk_url": "https:\/\/phim4k.xyz\/downloads\/android"
-            },
-            {
-                "name": "Phim 4K (iOS)",
-                "developer": "",
-                "icon": "https:\/\/img.freepik.com\/vector-gratis\/diseno-icona-insignia-resolucion-pantalla-4k-ultra-hd-dorada_1017-54543.jpg",
-                "installs": "",
-                "desc": "Cách cài đặt: Tải ứng dụng TestFlight trên AppStore Tải và cài Phim 4K từ TestFlight → Nhấn \"Accept\" → \"Install\" . Click vào đây để kích hoạt",
-                "apk_url": "https:\/\/testflight.apple.com\/join\/z9FZ56YC"
             },
             {
                 "name": "Plex (MOD)",
@@ -152,28 +72,12 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/emby.apk"
             },
             {
-                "name": "VTVGo TV (MOD)",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/vtvgo.jpg",
-                "installs": "",
-                "desc": "Chặn quảng cáo🦊",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/vtvgo.apk"
-            },
-            {
                 "name": "SmartTube",
                 "developer": "",
                 "icon": "https:\/\/img.utdstc.com\/icon\/b9f\/977\/b9f977832d162f1a9e65e2df6fb6a1ae352121073563b43e1837f8fbcf79601b:200",
                 "installs": "",
                 "desc": "Chặn quảng cáo YouTube TV 💌",
                 "apk_url": "https:\/\/kutt.it\/stn_stable"
-            },
-            {
-                "name": "9Tube (iOS)",
-                "developer": "",
-                "icon": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple211\/v4\/6d\/71\/19\/6d711909-cfde-50eb-3053-306c87e4f0e6\/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png\/1200x630wa.png",
-                "installs": "",
-                "desc": "YouTube 4K Không Quảng Cáo 💌",
-                "apk_url": "https:\/\/apps.apple.com\/vn\/app\/9tube-music-video\/id6499426011?l=vi"
             },
             {
                 "name": "YouTube Revanced (MOD)",
@@ -254,14 +158,6 @@
                 "installs": "",
                 "desc": "Xem Phim ☕",
                 "apk_url": "https:\/\/hdo.app\/tv"
-            },
-            {
-                "name": "Drama Player (MOD)",
-                "developer": "",
-                "icon": "https:\/\/phcorner.org\/attachments\/img_2796-webp.2904275\/",
-                "installs": "",
-                "desc": "Cài cho app HDO box ☕",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/drama.apk"
             },
             {
                 "name": "BeeTV",
@@ -602,14 +498,6 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/ace.apk"
             },
             {
-                "name": "AceStream2 (MOD)",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/ace.png",
-                "installs": "",
-                "desc": "Cài bản này nếu bản trên lỗi",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/acee.apk"
-            },
-            {
                 "name": "Ace Server",
                 "developer": "",
                 "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTnLqCRBJQhOeYiZsRG25shCS4FJKDcJ_sJ1mBRx-xPC_-YrxvM5o6f7Del&s=10",
@@ -677,30 +565,6 @@
                 "installs": "",
                 "desc": "Giả Lập Game Nes😘",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/nes.emu.apk"
-            },
-            {
-                "name": "KHO GAME XƯA HAY NHẤT",
-                "developer": "",
-                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRjG5JYs7V9DMp5zkc6PqGnK56r6xIg7lh9VFJBXq9pyvybwzQ3d4rnDa5s&s=10",
-                "installs": "",
-                "desc": "Kho game Giả Lập Game Nes, PSP..😘",
-                "apk_url": "https:\/\/archive.org\/details\/retro-roms-best-set"
-            },
-            {
-                "name": "KHO GAME ĐỒ SỘ gần 100GB",
-                "developer": "",
-                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQFC-qTpA6lhApTHSdwSvbd7MnNLzrifO3AH9_vmYenrRE4yXlFRHb5OQ5F&s=10",
-                "installs": "",
-                "desc": "Kho game Giả Lập Game Nes, PSP..Full 😘",
-                "apk_url": "https:\/\/drive.google.com\/drive\/folders\/1p51eOm2Mi18pdwN4GdjY45FrrcBlVRIw?usp=sharing"
-            },
-            {
-                "name": "KHO GAME >36000 Game 1TB",
-                "developer": "",
-                "icon": "https:\/\/www.didongmy.com\/vnt_upload\/news\/10_2024\/top-10-app-game-mien-phi-do-hoa-dinh-cao-gameplay-hap-dan.jpg",
-                "installs": "",
-                "desc": "Kho game khổng lồ Game Nes, PSP..Full 😘",
-                "apk_url": "https:\/\/www.arcadepunks.com\/fully-loaded-1tb-batocera-steam-deck-retro-gaming-build\/"
             },
             {
                 "name": "Button Mapper (MOD)",
