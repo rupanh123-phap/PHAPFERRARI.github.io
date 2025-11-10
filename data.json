@@ -1,16 +1,7 @@
 [
     {
         "category": "MỚI NHẤT",
-        "items": [
-            {
-                "name": "Send files to TV",
-                "developer": "1.0 bởi Yablio",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/k1kc79f3pU3FomQMlUakqEMVrGMu0Q7YEwEmF5F0Ibi599r7UJr5tvDVbWyJLEJZIKoU",
-                "installs": "10 Tr+",
-                "desc": "Dễ dàng chuyển tập tin sang Android Smart TV từ điện thoại di động hoặc máy tính của bạn.",
-                "apk_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.yablio.sendfilestotv"
-            }
-        ]
+        "items": []
     },
     {
         "category": "XEM PHIM - NGHE NHẠC",
@@ -21,7 +12,7 @@
                 "icon": "https:\/\/play-lh.googleusercontent.com\/RQvf62YkkS_hpGAfP2iBoT2yf7b0oohFQHhBB8Chp8nHNPSqmZgEkwwpKtqdtqQ_ZvM",
                 "installs": "50 Tr+",
                 "desc": "Kodi trung tâm truyền thông, một nguồn mở miễn phí và cross-nền tảng trung tâm vui chơi giải trí. Cần Fshare VIP",
-                "apk_url": "https:\/\/ahiep.name.vn\/phap-files\/?path=phuocphap%2FKODI%2FKodi22%2FKodi21-ondinh-+cloner"
+                "apk_url": "https:\/\/phuocphap.ahiep.name.vn\/phuocphap\/KODI\/Kodi22\/Kodi21-ondinh-%20cloner\/KODI21.Cloner.32bit-Ferrari.apk"
             },
             {
                 "name": "MonPlayer TV",
@@ -117,7 +108,7 @@
                 "icon": "https:\/\/newpipe.net\/img\/logo.svg",
                 "installs": "",
                 "desc": "Youtube không quảng cáo FHD 😁",
-                "apk_url": "https:\/\/newpipe.net\/#download"
+                "apk_url": "https:\/\/archive.newpipe.net\/fdroid\/repo\/NewPipe_v0.28.0.apk"
             },
             {
                 "name": "SkyTube Extra",
@@ -149,7 +140,7 @@
                 "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTvthkVAyXsOTg2F6mz4PnKbtrXAY7DaLh7rg&s",
                 "installs": "",
                 "desc": "Xem Phim ☕",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/rophim.apk"
+                "apk_url": "https:\/\/static.nutscdn.com\/download\/apk\/1762444204\/rophim-android-tv.apk"
             },
             {
                 "name": "HDO Box",
@@ -607,16 +598,16 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/volumeboost.apk"
             },
             {
-                "name": "Super Voice Tìm Kiếm Giọng Nói (Linor)",
-                "developer": "",
+                "name": "Super Voice Tìm Kiếm Giọng Nói ",
+                "developer": "Linor",
                 "icon": "https:\/\/cdn1.iconfinder.com\/data\/icons\/google-s-logo\/150\/Google_Icons-25-512.png",
                 "installs": "",
                 "desc": "Hỗ trợ Tizen-SmartTube-IPTV-CS 😘 Cần bật gỡ ADB gỡ lỗi USB",
                 "apk_url": "https:\/\/bom.so\/suppervoice"
             },
             {
-                "name": "Map Voice Tìm Kiếm Giọng Nói (Linor)",
-                "developer": "",
+                "name": "Map Voice Tìm Kiếm Giọng Nói ",
+                "developer": "Linor",
                 "icon": "https:\/\/cdn1.iconfinder.com\/data\/icons\/google-s-logo\/150\/Google_Icons-25-512.png",
                 "installs": "",
                 "desc": "Hỗ trợ Tizen-SmartTube-IPTV-CS.. 😘 Không cần bật ADB",
@@ -631,16 +622,16 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/kiki.xapk"
             },
             {
-                "name": "Tìm Kiếm Giọng Nói VNVoice (Linor)",
-                "developer": "",
+                "name": "Tìm Kiếm Giọng Nói VNVoice ",
+                "developer": "Linor",
                 "icon": "https:\/\/static.vecteezy.com\/system\/resources\/previews\/021\/569\/060\/non_2x\/letter-v-initials-sound-voice-spectrum-rhythm-digital-futuristic-modern-vibrant-logo-design-vector.jpg",
                 "installs": "",
                 "desc": "Hỗ trợ Smarttube - KODI😘",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/voicelinor.apk"
             },
             {
-                "name": "Tìm Kiếm Giọng Nói (Minh Tâm)",
-                "developer": "",
+                "name": "Lối Tắt - Tìm Kiếm Giọng Nói ",
+                "developer": "Minh Tâm",
                 "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRRXjAMcwU-Cksb8_KTKCiXiX6vd4bKxbhsrA&s",
                 "installs": "",
                 "desc": "Lối tắt tìm kiếm giọng nói 😘",
@@ -757,14 +748,6 @@
                 "installs": "",
                 "desc": "Fix Time NTP",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/"
-            },
-            {
-                "name": "Chặn Quảng Cáo IOS",
-                "developer": "",
-                "icon": "https:\/\/img.icons8.com\/?size=512&id=20821&format=png",
-                "installs": "",
-                "desc": "Tải về - Cài đặt chung -> Quản lý VPN và Thiết bị -> Hồ sơ cấu hình -> Phap Ferrari -> Cài đặt -> OK",
-                "apk_url": "https:\/\/is.gd\/phapcqcios"
             }
         ]
     },
@@ -826,30 +809,6 @@
                 "installs": "",
                 "desc": "Thay đổi giao diện mặc định 😘",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tdgd.apk"
-            },
-            {
-                "name": "Giao Diện",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/atv.png",
-                "installs": "",
-                "desc": "Tổng Hợp Giao Diện",
-                "apk_url": "https:\/\/www.mediafire.com\/folder\/vtcnxvwcz9yzr\/ATV+Launcher"
-            },
-            {
-                "name": "MX Player Pro (MOD)",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/mxp.png",
-                "installs": "",
-                "desc": "Trình phát đã xoá quảng cáo",
-                "apk_url": "https:\/\/rupanh123-phap.github.io\/mx.html"
-            },
-            {
-                "name": "VLC",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/nPnJc260PPoupBe-DcVQ-MNr6149dphdEoEAN-C9xwgctpVXbwsuyon_jEZ3uPWWYQ",
-                "installs": "",
-                "desc": "VLC for Android TV😁",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/vlc.apk"
             },
             {
                 "name": "Just Player",
