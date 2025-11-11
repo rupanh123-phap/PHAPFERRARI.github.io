@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
+  "versionCode": 3,
+  "versionName": "1.1",
   "apkUrl": "https://play.minhtam.net/app-release.apk",
-  "releaseNotes": "- Sửa lỗi và cải thiện hiệu năng.\n- Thêm lỗi mới mà chưa biết."
+  "releaseNotes": "- Sửa lỗi và cải thiện hiệu năng.\n- Sửa lỗi màn hình đen."
 }
