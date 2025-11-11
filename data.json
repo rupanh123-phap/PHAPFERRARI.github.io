@@ -1,8 +1,5 @@
 [
-    {
-        "category": "MỚI NHẤT",
-        "items": []
-    },
+
     {
         "category": "XEM PHIM - NGHE NHẠC",
         "items": [
@@ -87,12 +84,12 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/microg.apk"
             },
             {
-                "name": "TizenTube (MOD)",
+                "name": "TizenTube",
                 "developer": "",
                 "icon": "https:\/\/yt3.googleusercontent.com\/nbJWx2bDG0lj9ECT-1Xs1F9kWHHOHS0kK9-s4N2zuGf36sg_1tbuwT27Ftg3osYCdFXi5S6Lxqc=s900-c-k-c0x00ffffff-no-rj",
                 "installs": "",
                 "desc": "Chặn quảng cáo, Chạy song song YouTube gốc ❤️ Đổi giống YouTube - Voice vs KiKi , Supervoice",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tizen.apk"
+                "apk_url": "https:\/\/github.com\/reisxd\/TizenTubeCobalt\/releases\/download\/v1.0.3\/cobalt-arm.apk"
             },
             {
                 "name": "TizenTube (Cần Xoá Youtube Gốc)",
@@ -189,6 +186,22 @@
                 "installs": "",
                 "desc": "Karaoke 😁",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tivikaraoke.apk"
+            },
+            {
+                "name": "MX Player TV",
+                "developer": "Amazon Mobile LLC",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/fTp32YyE-fi7cdG4V6dDR5OCLsx5bRhgMuCQLXroevnHiZWRY72Cxcseb6vlznTEDQ",
+                "installs": "10 Tr+",
+                "desc": "Thưởng thức loạt phim web không giới hạn, phim nổi tiếng, truyền hình trực tiếp, bản gốc MX trên TV trực tuyến.",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/mx.apk"
+            },
+            {
+                "name": "VLC for Android",
+                "developer": "Videolabs",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/nPnJc260PPoupBe-DcVQ-MNr6149dphdEoEAN-C9xwgctpVXbwsuyon_jEZ3uPWWYQ",
+                "installs": "100 Tr+",
+                "desc": "VLC cho Android là video và nghe nhạc mã nguồn mở tốt nhất, nhanh chóng và dễ dàng!.",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/vlc.apk"
             }
         ]
     },
@@ -523,7 +536,7 @@
                 "icon": "https:\/\/play-lh.googleusercontent.com\/u1e6dAgrKtHo7m9vfVJqOXdiw6DFgZWAfV1PiqlxJFsZ-4FB_xN2wNP4Nsrd_e87oEQ",
                 "installs": "",
                 "desc": "Map Phím Siêu Pro 😘",
-                "apk_url": "https:\/\/rupanh123-phap.github.io\/tvq.html"
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tvq.apk"
             },
             {
                 "name": "Happy Chick TV (MOD VIP)",
@@ -800,7 +813,7 @@
                 "icon": "https:\/\/play-lh.googleusercontent.com\/6bigO3_72JW9xTdkX7Mpm8fTBiP7ISDCUcI2E3C79P21uwuJC6VWD8pFxH-bXvc-CVZm",
                 "installs": "",
                 "desc": "Giao diện đẹp đơn giản😁",
-                "apk_url": "https:\/\/rupanh123-phap.github.io\/prolauncher.html"
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/prolauncher.apk"
             },
             {
                 "name": "Thay đổi giao diện",
@@ -894,6 +907,14 @@
                 "installs": "",
                 "desc": "Kho ứng dụng",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/hdplaystore.apk"
+            },
+            {
+                "name": "TTV Store",
+                "developer": "Minh Tâm VN",
+                "icon": "https:\/\/i.ibb.co\/kFRnq3g\/5p.png",
+                "installs": "",
+                "desc": "Kho ứng dụng hay nhất",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/ttvstore.apk"
             }
         ]
     }
