@@ -1,12 +1,11 @@
 [
-
     {
         "category": "XEM PHIM - NGHE NHẠC",
         "items": [
             {
                 "name": "Phim 4K (TV)",
                 "developer": "Luôn là phiên bản mới nhất",
-                "icon": "https:\/\/img.freepik.com\/vector-gratis\/diseno-icona-insignia-resolucion-pantalla-4k-ultra-hd-dorada_1017-54543.jpg",
+                "icon": "https:\/\/i.postimg.cc\/3RfHN517\/Picsart-25-11-10-13-53-28-889.jpg",
                 "installs": "50 Tr+",
                 "desc": "Phim Miễn Phí 👽",
                 "apk_url": "https:\/\/phim4k.xyz\/downloads\/androidtv"
@@ -288,7 +287,7 @@
             {
                 "name": "VAppTV",
                 "developer": "",
-                "icon": "https:\/\/vivalavintage.com.au\/wp-content\/uploads\/2023\/03\/logo-viva-la-vintage-best.webp",
+                "icon": "https:\/\/vapptv.com\/vapp-logo.png",
                 "installs": "",
                 "desc": "Truyền Hình 😱",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/vapptv.apk"
@@ -336,7 +335,7 @@
             {
                 "name": "Monster TV",
                 "developer": "",
-                "icon": "https:\/\/image.winudf.com\/v2\/image1\/Y29tLnF1YW5nLnRoZXRoYW8udGludHVjX3NjcmVlbl8wXzE2NDQ0Njk0MDVfMDU4\/screen-0.jpg?fakeurl=1&type=.jpg",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQm43oFacKvlTLkp3FJ6i0GyTZYmGgQpXkTkSWo__BWbau-hY2cQcUK7CNS&s=10",
                 "installs": "",
                 "desc": "Truyền Hình - Bóng Đá 😱",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/monster.apk"
