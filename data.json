@@ -12,9 +12,9 @@
             },
             {
                 "name": "MonPlayer TV",
-                "developer": "Monoverse Co., Ltd",
+                "developer": "Luôn là phiên bản mới nhất",
                 "icon": "https:\/\/play-lh.googleusercontent.com\/HqXUsIGaqeYJDmTBFoS6_YLvODIuUjNn_HQTx_96TIFKldk2ob0x66HEXh_NnPAsXxc",
-                "installs": "100 N+",
+                "installs": "",
                 "desc": "Chơi tất cả nội dung bạn thích!.",
                 "apk_url": "https:\/\/monplayer.org\/tv"
             },
@@ -83,19 +83,19 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/microg.apk"
             },
             {
-                "name": "TizenTube",
-                "developer": "",
+                "name": "TizenTube (MOD)",
+                "developer": "Phiên bản: 1.0.3",
                 "icon": "https:\/\/yt3.googleusercontent.com\/nbJWx2bDG0lj9ECT-1Xs1F9kWHHOHS0kK9-s4N2zuGf36sg_1tbuwT27Ftg3osYCdFXi5S6Lxqc=s900-c-k-c0x00ffffff-no-rj",
                 "installs": "",
                 "desc": "Chặn quảng cáo, Chạy song song YouTube gốc ❤️ Đổi giống YouTube - Voice vs KiKi , Supervoice",
-                "apk_url": "https:\/\/github.com\/reisxd\/TizenTubeCobalt\/releases\/download\/v1.0.3\/cobalt-arm.apk"
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tizentube.apk"
             },
             {
-                "name": "TizenTube (Cần Xoá Youtube Gốc)",
+                "name": "TizenTube ",
                 "developer": "",
                 "icon": "https:\/\/yt3.googleusercontent.com\/nbJWx2bDG0lj9ECT-1Xs1F9kWHHOHS0kK9-s4N2zuGf36sg_1tbuwT27Ftg3osYCdFXi5S6Lxqc=s900-c-k-c0x00ffffff-no-rj",
                 "installs": "",
-                "desc": "Chặn quảng cáo, YouTube TV ❤️",
+                "desc": "Tizentube Nguyên Gốc.Chặn quảng cáo, YouTube TV ❤️",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tizen.apk"
             },
             {
