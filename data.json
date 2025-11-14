@@ -201,6 +201,22 @@
                 "installs": "100 Tr+",
                 "desc": "VLC cho Android là video và nghe nhạc mã nguồn mở tốt nhất, nhanh chóng và dễ dàng!.",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/vlc.apk"
+            },
+            {
+                "name": "Phim 4K (Link khác)",
+                "developer": "",
+                "icon": "https:\/\/i.postimg.cc\/3RfHN517\/Picsart-25-11-10-13-53-28-889.jpg",
+                "installs": "",
+                "desc": "Bản Phim 4K Link tải khác",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/phim4k.apk"
+            },
+            {
+                "name": "Phim4K (Lite)",
+                "developer": "",
+                "icon": "https:\/\/i.postimg.cc\/3RfHN517\/Picsart-25-11-10-13-53-28-889.jpg",
+                "installs": "",
+                "desc": "Dành cho box yếu . Chất lượng chỉ đạt tối đa FullHD",
+                "apk_url": "https:\/\/phim4k.xyz\/downloads\/androidtv32"
             }
         ]
     },
@@ -845,6 +861,14 @@
                 "installs": "",
                 "desc": "Aplayer😁",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/aplayer.apk"
+            },
+            {
+                "name": "Vimu (MOD)",
+                "developer": "Phiên bản: 11.0.1",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRkMxs2U5lr47O_VgOR0EeutZ9-7-yvkDzQ_Al_xwN4UdsQBa7roB5MRps&s=10",
+                "installs": "",
+                "desc": "Vimu là ứng dụng trình phát đa phương tiện nâng cao dành cho Android TV, Fire TV hoặc Google TV của bạn.\r\nPhiên bản đã được mod việt hoá",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/vimu.apk"
             }
         ]
     },
