@@ -523,6 +523,14 @@
                 "installs": "",
                 "desc": "Xem thể thao acestream",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/acesv.apk"
+            },
+            {
+                "name": "ONNA Online",
+                "developer": "",
+                "icon": "https:\/\/i.postimg.cc\/qvQ9rKCz\/S5.png",
+                "installs": "",
+                "desc": "Truyền hình cơ bản",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/onna.apk"
             }
         ]
     },
