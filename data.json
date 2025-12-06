@@ -241,6 +241,14 @@
                 "installs": "",
                 "desc": "Kodi trung tâm truyền thông, một nguồn mở miễn phí và cross-nền tảng trung tâm vui chơi giải trí. \r\nHướng dẫn\r\nChọn cập nhật ! Và cài đè\r\nPhim 4K cần đăng ký tk miễn phí ở tele https:\/\/t.me\/congdong4ker\r\nĐối với người dùng Fshare \r\nĐể mở vnmedia và vietmediaf thì vào tiện ích của tôi - tất cả - bật vnmedia và vietmediaf lên để đăng nhập xài\r\nCần có tk Fshare VIP để đăng nhập xem 🤩\r\nNguồn lấy từ internet\r\n",
                 "apk_url": "https:\/\/phuocphap.ahiep.name.vn\/phuocphap\/KODI\/Kodi22\/Kodi21-ondinh-%20cloner\/kodi21.2-DuneAndroid9.apk"
+            },
+            {
+                "name": "Netfly TV",
+                "developer": "Luôn là phiên bản mới nhất",
+                "icon": "https:\/\/i.postimg.cc\/j5wb4sW-x\/f-O.png",
+                "installs": "",
+                "desc": "Ứng dụng xem phim , truyền hình , thể thao quốc tế",
+                "apk_url": "https:\/\/netflyapp.com\/file\/netfly_tv.apk"
             }
         ]
     },
@@ -970,6 +978,14 @@
                 "installs": "",
                 "desc": "Kho ứng dụng hay nhất",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/ttvstore.apk"
+            },
+            {
+                "name": "Bảo Store",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcT_NX-IY9UEoRsAMatZKDqLfbv-sq04RCacQg&s",
+                "installs": "",
+                "desc": "Kho ứng dụng bảo ",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/baostore.apk"
             }
         ]
     }
