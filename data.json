@@ -249,6 +249,22 @@
                 "installs": "",
                 "desc": "Ứng dụng xem phim , truyền hình , thể thao quốc tế",
                 "apk_url": "https:\/\/netflyapp.com\/file\/netfly_tv.apk"
+            },
+            {
+                "name": "Spotify Premium ATV",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/spotifyy.png",
+                "installs": "",
+                "desc": "Spotify Premium ATV",
+                "apk_url": "https:\/\/phuocphap.ahiep.name.vn\/phuocphap\/spotifyatv.apk"
+            },
+            {
+                "name": "Spotify Premium ATV",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/spotifyy.png",
+                "installs": "",
+                "desc": "192.168.168.113",
+                "apk_url": "https:\/\/phuocphap.ahiep.name.vn\/phuocphap\/spotify15.apk"
             }
         ]
     },
