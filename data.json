@@ -84,19 +84,19 @@
             },
             {
                 "name": "TizenTube (MOD)",
-                "developer": "Phiên bản: 1.0.5",
+                "developer": "Phiên bản luôn là mới nhất",
                 "icon": "https:\/\/yt3.googleusercontent.com\/nbJWx2bDG0lj9ECT-1Xs1F9kWHHOHS0kK9-s4N2zuGf36sg_1tbuwT27Ftg3osYCdFXi5S6Lxqc=s900-c-k-c0x00ffffff-no-rj",
                 "installs": "",
                 "desc": "Chặn quảng cáo, Chạy song song YouTube gốc ❤️ Đổi giống YouTube - Voice vs KiKi , Supervoice",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tizentube.apk"
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tizentubemod.apk"
             },
             {
                 "name": "TizenTube ",
-                "developer": "",
+                "developer": "Phiên bản luôn là mới nhất",
                 "icon": "https:\/\/yt3.googleusercontent.com\/nbJWx2bDG0lj9ECT-1Xs1F9kWHHOHS0kK9-s4N2zuGf36sg_1tbuwT27Ftg3osYCdFXi5S6Lxqc=s900-c-k-c0x00ffffff-no-rj",
                 "installs": "",
                 "desc": "Tizentube Nguyên Gốc.Chặn quảng cáo, YouTube TV ❤️",
-                "apk_url": "https:\/\/github.com\/reisxd\/TizenTubeCobalt\/releases\/download\/v1.0.5\/cobalt-arm.apk"
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tizentubegoc.apk"
             },
             {
                 "name": "Newpipe",
@@ -249,22 +249,6 @@
                 "installs": "",
                 "desc": "Ứng dụng xem phim , truyền hình , thể thao quốc tế",
                 "apk_url": "https:\/\/netflyapp.com\/file\/netfly_tv.apk"
-            },
-            {
-                "name": "Spotify Premium ATV",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/spotifyy.png",
-                "installs": "",
-                "desc": "Spotify Premium ATV",
-                "apk_url": "https:\/\/phuocphap.ahiep.name.vn\/phuocphap\/spotifyatv.apk"
-            },
-            {
-                "name": "Spotify Premium ATV",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/PHAPFERRARI.github.io\/refs\/heads\/main\/spotifyy.png",
-                "installs": "",
-                "desc": "192.168.168.113",
-                "apk_url": "https:\/\/phuocphap.ahiep.name.vn\/phuocphap\/spotify15.apk"
             }
         ]
     },
