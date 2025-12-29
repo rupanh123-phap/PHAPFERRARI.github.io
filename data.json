@@ -816,6 +816,22 @@
                 "installs": "",
                 "desc": "Truyền màn hình - Google Cast cho thiết bị không hỗ trợ 😘",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/castreceiver.apk"
+            },
+            {
+                "name": "MT Channel",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSGUBrCebB_zcqNe92XrO9_ppfKPDN4D7krsBSZdkf23w&s=10",
+                "installs": "",
+                "desc": "Tạo các kênh TV Android của riêng bạn và thêm bất kỳ ứng dụng nào bạn đã cài đặt trong thiết bị của mình.",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/mtc.apk"
+            },
+            {
+                "name": "Sideload Channel",
+                "developer": "",
+                "icon": "https:\/\/images.dwncdn.net\/images\/t_app-icon-l\/p\/1fa862ad-deb0-41a2-901a-f6717969ea7b\/3343212154\/2072_4-78118534-logo",
+                "installs": "",
+                "desc": "Tạo các kênh TV Android của riêng bạn và thêm bất kỳ ứng dụng nào bạn đã cài đặt trong thiết bị của mình.",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/slc.apk"
             }
         ]
     },
