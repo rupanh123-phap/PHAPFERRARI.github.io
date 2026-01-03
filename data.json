@@ -583,7 +583,7 @@
                 "icon": "https:\/\/play-lh.googleusercontent.com\/u1e6dAgrKtHo7m9vfVJqOXdiw6DFgZWAfV1PiqlxJFsZ-4FB_xN2wNP4Nsrd_e87oEQ",
                 "installs": "",
                 "desc": "Map Phím Siêu Pro 😘",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tvq.apk"
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/tvq1.apk"
             },
             {
                 "name": "Happy Chick TV (MOD VIP)",
@@ -925,6 +925,14 @@
                 "installs": "",
                 "desc": "Vimu là ứng dụng trình phát đa phương tiện nâng cao dành cho Android TV, Fire TV hoặc Google TV của bạn.\r\nPhiên bản đã được mod việt hoá",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/vimu.apk"
+            },
+            {
+                "name": "Emotn Launcher",
+                "developer": "",
+                "icon": "https:\/\/static.emotn.com\/img\/logo.png",
+                "installs": "",
+                "desc": "Giao diện đơn giản ",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/emotn.apk"
             }
         ]
     },
@@ -1002,6 +1010,22 @@
                 "installs": "",
                 "desc": "Kho ứng dụng bảo ",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/baostore.apk"
+            },
+            {
+                "name": "APK Update",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/JVPqSUjWg9JYlw_KitvbDtmImVcINiW-eZITgdD92RQ4tV2F_WUOrVTkPmBamCUeZIo",
+                "installs": "",
+                "desc": "Kho ứng dụng thay thế google play✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/apkup.apk"
+            },
+            {
+                "name": "Emotn Store",
+                "developer": "",
+                "icon": "https:\/\/static.emotn.com\/img\/logo.png",
+                "installs": "",
+                "desc": "Kho ứng dụng Emotn ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/emotnstore.apk"
             }
         ]
     }
