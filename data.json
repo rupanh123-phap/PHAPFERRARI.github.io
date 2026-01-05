@@ -832,6 +832,14 @@
                 "installs": "",
                 "desc": "Tạo các kênh TV Android của riêng bạn và thêm bất kỳ ứng dụng nào bạn đã cài đặt trong thiết bị của mình.",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/slc.apk"
+            },
+            {
+                "name": "Weather - Thời tiết",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/RskDwFglKr6j6kLeFFtCPjDcj5LUfSASLr7c6lgqPBjCTZVb0rsrQxZRqlIoBZrKUw",
+                "installs": "",
+                "desc": "Thời tiết cho ATV Launcher đã Mod",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/thoitiet.apk"
             }
         ]
     },
