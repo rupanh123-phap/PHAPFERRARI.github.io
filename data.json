@@ -249,6 +249,14 @@
                 "installs": "",
                 "desc": "Ứng dụng xem phim , truyền hình , thể thao quốc tế",
                 "apk_url": "https:\/\/netflyapp.com\/file\/netfly_tv.apk"
+            },
+            {
+                "name": "NVC Movie TV",
+                "developer": "",
+                "icon": "https:\/\/purepng.com\/public\/uploads\/large\/purepng.com-play-movies-icon-android-lollipopsymbolsiconsgooglegoogle-iconsandroid-lollipoplollipop-iconsandroid-50-721522597265r557u.png",
+                "installs": "",
+                "desc": "Xem Phim Miễn Phí",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/nvc.apk"
             }
         ]
     },
