@@ -101,10 +101,10 @@
             {
                 "name": "Newpipe",
                 "developer": "",
-                "icon": "https:\/\/newpipe.net\/img\/logo.svg",
+                "icon": "https:\/\/repository-images.githubusercontent.com\/746093504\/9a6136fe-0541-4e3f-8fe2-559f29bdb04c",
                 "installs": "",
                 "desc": "Youtube không quảng cáo FHD 😁",
-                "apk_url": "https:\/\/archive.newpipe.net\/fdroid\/repo\/NewPipe_v0.28.0.apk"
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/newpipe.apk"
             },
             {
                 "name": "SkyTube Extra",
@@ -848,6 +848,22 @@
                 "installs": "",
                 "desc": "Thời tiết cho ATV Launcher đã Mod",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/thoitiet.apk"
+            },
+            {
+                "name": "Dashboard - Tất cả app",
+                "developer": "",
+                "icon": "https:\/\/image.winudf.com\/v2\/image1\/Y29tLnNhbWFib3guZGFzaGJvYXJkX2ljb25fMTU4MjA0MjgzNV8wNzU\/icon.png?w=184&fakeurl=1",
+                "installs": "",
+                "desc": "Dasboard - Tất cả app",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/dashboard.apk"
+            },
+            {
+                "name": "Kiểm tra tốc độ mạng - Speedtest ",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/1LKWySZIE8Shx6Y1oy1LgrAtgDo-FwweOmW1hnfTVggPOM0txJ1qYtc8G8XOEfDpGA",
+                "installs": "",
+                "desc": "Kiểm tra tốc độ mạng",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/sp.apk"
             }
         ]
     },
