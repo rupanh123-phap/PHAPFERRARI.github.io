@@ -615,7 +615,7 @@
                 "icon": "https:\/\/play-lh.googleusercontent.com\/10fZZfOPjwESHD3wFAZx65m6uwDxMqj2yokiSlOwJzrqxokol9Qc1hwMQnZOWTCtgB4",
                 "installs": "",
                 "desc": "Giả Lập Game PS1😘",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/psp.apk"
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/ppsspp.apk"
             },
             {
                 "name": "Nes.emu (MOD VIP)",
@@ -786,14 +786,6 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/sbackup.apk"
             },
             {
-                "name": "Folder Sync",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/Bc1L10zBvt3w6uAzBkZqliV7m6qVE1-F4QlXFKhQuWxtCeancWGY2IIhbrzxpNBzO58=w240-h480-rw",
-                "installs": "",
-                "desc": "Sao lưu thư mục - dữ liệu trên cloud",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/fsync.apk"
-            },
-            {
                 "name": "Remote ADB",
                 "developer": "",
                 "icon": "https:\/\/play-lh.googleusercontent.com\/k7lEVSrxLA54xzKtV7TUXew2fjrCuej-gBkeihuGYa4u9_cGdMRcBNEmx3JwpbY0E4JN",
@@ -815,7 +807,7 @@
                 "icon": "https:\/\/cdn-icons-png.freepik.com\/512\/5521\/5521277.png",
                 "installs": "",
                 "desc": "Fix Time NTP",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/"
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/PHAPFERRARI.github.io\/releases\/download\/V1.0.0\/ntp.apk"
             },
             {
                 "name": "CastReceiver (MOD)",
